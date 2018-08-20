@@ -1,1 +1,3 @@
 rootProject.name = 'url-collector'
+include 'frontend'
+include 'backend'
